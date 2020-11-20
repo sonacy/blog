@@ -1,1 +1,11 @@
-{"componentChunkName":"component---deck-mdx","path":"/","matchPath":"/*","result":{"pageContext":{"matchPath":"/*"}},"staticQueryHashes":[]}
+{
+  "componentChunkName": "component---deck-mdx",
+  "path": "/blog",
+  "matchPath": "/*",
+  "result": {
+    "pageContext": {
+      "matchPath": "/*"
+    }
+  },
+  "staticQueryHashes": []
+}
