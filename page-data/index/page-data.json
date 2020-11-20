@@ -1,6 +1,6 @@
 {
   "componentChunkName": "component---deck-mdx",
-  "path": "/blog",
+  "path": "/",
   "matchPath": "/*",
   "result": {
     "pageContext": {
